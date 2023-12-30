@@ -3,7 +3,7 @@ I am a student majoring in Information Security where my goal is to become a cyb
 successful implementations by maintaining the systems and providing initial and up-to-date training for all users.  I enjoy finding solutions to problems and helping people better understand and use technology.
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> 👩‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/ndonnelly17/Azure-SOC)
